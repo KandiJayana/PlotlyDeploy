@@ -10,3 +10,6 @@ Create visualizations and dashboards to analyze if Improbable Beef identifies a 
 - Create a Gauge Chart
 - Customize the Dashboard
 
+
+[link to dashboard](https://kandijayana.github.io/PlotlyDeploy/)
+
